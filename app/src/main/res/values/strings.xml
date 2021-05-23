@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Меню</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Главная</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_category">Категории</string>
+    <string name="menu_impressum">Impressum</string>
+    <string name="menu_information">Information</string>
+    <string name="category1">Belletristik</string>
+    <string name="choose">Выбрать</string>
+    <string name="price">Цена:</string>
+</resources>
